@@ -1,13 +1,13 @@
 # Mark Anton 👋
 
-Aspiring professional building strong foundations in Git and GitHub.
+Building strong foundations in Git and GitHub.
 
 ---
 
 ## About Me
 
-I am currently focused on developing solid version control practices and structured project workflows.  
-I believe in learning step by step and building skills with discipline and clarity.
+I am focused on developing strong version control practices and structured project workflows.
+I value clarity, discipline, and continuous improvement in technical growth.
 
 ---
 
